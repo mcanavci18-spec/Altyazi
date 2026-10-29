@@ -1,2 +1,0 @@
-# Altyazi
-Altyazılı 
